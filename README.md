@@ -55,8 +55,10 @@
 ---
 
 ## 🤝 **Let's Connect!**  
-- 💼 **LinkedIn:** [linkedin.com/in/architagarwal984](https://linkedin.com/in/architagarwal984)  
-- 🎥 **YouTube:** [TheExceptionHandler](https://www.youtube.com/c/TheExceptionHandler)  
+- 💼 **LinkedIn:** [Archit Agarwal](https://linkedin.com/in/architagarwal984)  
+- 🎥 **YouTube:** [The Exception Handler](https://www.youtube.com/c/TheExceptionHandler)
+- 📧 **Newsletters:** 
+  - [The Weekly Golang Journal](https://www.linkedin.com/newsletters/the-weekly-golang-journal-7261403856079597568/)
 - 📧 **Email:** architagr@gmail.com  
 
 > **_"Building scalable systems, empowering developers, and sharing knowledge."_**  
